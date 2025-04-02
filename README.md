@@ -28,9 +28,9 @@ Each project follows a consistent structure:
 ```
 project-name/
 ├── README.md           # Project-specific documentation
-├── frontend/          # Frontend application (if applicable)
-├── backend/          # Backend services (if applicable)
-├── contracts/        # Smart contracts (if applicable)
+├── frontend/          # Next.js frontend application
+├── backend/          # Backend services (Python/Rust)
+├── contracts/        # Smart contracts (Rust)
 └── docs/            # Additional documentation
 ```
 
