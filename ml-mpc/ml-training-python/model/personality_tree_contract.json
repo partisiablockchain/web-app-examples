@@ -1,0 +1,42 @@
+{
+  "internals": [
+    {
+      "feature": 17,
+      "threshold": 2500
+    },
+    {
+      "feature": 17,
+      "threshold": 2500
+    },
+    {
+      "feature": 4,
+      "threshold": 2500
+    },
+    {
+      "feature": 1,
+      "threshold": 2500
+    },
+    {
+      "feature": 24,
+      "threshold": 2500
+    },
+    {
+      "feature": 14,
+      "threshold": 2500
+    },
+    {
+      "feature": 1,
+      "threshold": 2500
+    }
+  ],
+  "leaves": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+  ]
+}
